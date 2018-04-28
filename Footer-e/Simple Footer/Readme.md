@@ -1,1 +1,0 @@
-Un footer simplu, creat în cadrul cursului.
